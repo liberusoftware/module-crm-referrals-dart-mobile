@@ -1,0 +1,15 @@
+{
+  "repository": "module-crm-referrals-dart-mobile",
+  "capabilityKey": "liberusoftware/module-crm-referrals",
+  "presentation": "dart-mobile",
+  "package": "module_crm_referrals_dart_mobile",
+  "foundation": "module-boilerplate-dart-mobile",
+  "foundationCommit": "0656c212b36ef4f8ffd6fc74db4ac541268e7d31",
+  "canonicalPlan": "projects/crm/nextjs/referrals.md",
+  "presentationPlan": "projects/crm/features/referrals.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "crm"
+  ]
+}
